@@ -1,2 +1,2 @@
-# Ticket Requirements Helper
-Helps convert content model data from tables to be ready for development tickets.
+# Hex Code and Transparency Calculator
+Helps find the correct hex code to use when incorporating transparency.
